@@ -6,6 +6,10 @@ This estimation process is very fast!
 ### Demo:
 <table>
     <tr>
+    <td ><center>buddha</center></td>
+    <td ><center>GT</center></td>        
+    </tr>
+    <tr>
     <td ><center>buddha<img src="https://github.com/GilbertRC/Light-Field-Structure-Tensor-Depth-Estimation/blob/main/buddha_depth.png" width="250"></center></td>
     <td ><center>GT<img src="https://github.com/GilbertRC/Light-Field-Structure-Tensor-Depth-Estimation/blob/main/buddha/buddha_gt.png" width="250"></center></td>        
     </tr>
