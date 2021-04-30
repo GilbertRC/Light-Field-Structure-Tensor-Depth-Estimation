@@ -6,7 +6,7 @@ This estimation process is very fast!
 ### Demo:
 <table>
     <tr>
-    <td ><center><img src="https://github.com/GilbertRC/Light-Field-Structure-Tensor-Depth-Estimation/blob/main/buddha_depth.png" height="250"></center></td>
+    <td ><center>buddha<img src="https://github.com/GilbertRC/Light-Field-Structure-Tensor-Depth-Estimation/blob/main/buddha_depth.png" height="250"></center></td>
     <td ><center><img src="https://github.com/GilbertRC/Light-Field-Structure-Tensor-Depth-Estimation/blob/main/monasRoom_depth.png" height="250"></center></td>
     <td ><center><img src="https://github.com/GilbertRC/Light-Field-Structure-Tensor-Depth-Estimation/blob/main/horses_depth.png" height="250"></center></td>  
     </tr>
