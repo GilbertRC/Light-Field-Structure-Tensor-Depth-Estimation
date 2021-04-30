@@ -6,12 +6,12 @@ This estimation process is very fast!
 ### Demo:
 <table>
     <tr>
-    <td ><center><img src="https://github.com/GilbertRC/Light-Field-Structure-Tensor-Depth-Estimation/tree/main/buddha/buddha.png" width="400"></center></td>
-    <td ><center><img src="https://github.com/GilbertRC/Light-Field-Structure-Tensor-Depth-Estimation/blob/main/buddha_depth.png" width="400"></center></td>
+    <td ><center><img src="https://github.com/GilbertRC/Light-Field-Structure-Tensor-Depth-Estimation/tree/main/buddha/buddha.png" width="200"></center></td>
+    <td ><center><img src="https://github.com/GilbertRC/Light-Field-Structure-Tensor-Depth-Estimation/blob/main/buddha_depth.png" width="200"></center></td>
     </tr>
     <tr>
-    <td ><center><img src="https://github.com/GilbertRC/Light-Field-Structure-Tensor-Depth-Estimation/tree/main/buddha/buddha.png" width="400"></center></td>
-    <td ><center><img src="https://github.com/GilbertRC/Light-Field-Structure-Tensor-Depth-Estimation/blob/main/buddha_depth.png" width="400"></center></td>
+    <td ><center><img src="https://github.com/GilbertRC/Light-Field-Structure-Tensor-Depth-Estimation/tree/main/buddha/buddha.png" width="200"></center></td>
+    <td ><center><img src="https://github.com/GilbertRC/Light-Field-Structure-Tensor-Depth-Estimation/blob/main/monasRoom_depth.png" width="200"></center></td>
     </tr>
 </table>
 
