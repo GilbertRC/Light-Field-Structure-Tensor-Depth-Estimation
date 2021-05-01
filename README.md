@@ -24,4 +24,4 @@ This estimation process is very fast!
 </table>
 
 ### References:
-[1] Sven Wanner and Bastian Goldluecke, "Variational light field analysis for disparity estimation and super-resolution," *T-PAMI*, vol. 36, no. 3, pp. 606–619, 2014.
+[1] S. Wanner, and B. Goldluecke, "Variational light field analysis for disparity estimation and super-resolution," *T-PAMI*, vol. 36, no. 3, pp. 606–619, 2014.
